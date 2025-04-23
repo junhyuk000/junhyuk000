@@ -9,8 +9,6 @@ API 설계, MySQL 데이터 관리, 서버 운영 및 도메인 배포까지 직
 ## 👨‍💻 About Me
 
 - 이름: 신준혁  
-- 생년월일: 1996년생 (만 28세)  
-- 거주지: 경기도 수원시 장안구  
 - 이메일: junhyuk000@naver.com  
 - 포트폴리오: [https://junhyuk000.monster](https://junhyuk000.monster)  
 - 노션: [junhyuk000/notion](https://fossil-bag-18e.notion.site/Programming-172e285b7865800ea4d7da30b8c6dc8f)
@@ -153,13 +151,6 @@ API 설계, MySQL 데이터 관리, 서버 운영 및 도메인 배포까지 직
         <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="네이버"/>
         <br>
         <code>junhyuk000@naver.com</code>
-      </td>
-      <td align="center">
-        <a href="https://fossil-bag-18e.notion.site/Programming-172e285b7865800ea4d7da30b8c6dc8f">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-        </a>
-        <br>
-        <code>Notion</code>
       </td>
       <td align="center">
         <a href="https://open.kakao.com/o/sqK5qyfh">
